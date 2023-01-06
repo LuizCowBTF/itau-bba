@@ -1,0 +1,107 @@
+a:link {
+  text-decoration: #004389;
+}
+
+a:visited {
+  text-decoration: #004389;
+}
+
+a:hover {
+  text-decoration: #004389;
+}
+
+a:active {
+  text-decoration: #004389;
+}
+
+
+
+.navBar {
+  background-color: #ffe0cc;
+  height: 150px;
+  font-size: 30px;
+  font-weight: bolder;
+  color: #004389;
+  text-decoration: none;
+  border-bottom: 3px solid #ff7b24;
+}
+
+.navRowImg {
+  width: 200px;
+  height: 100px;
+  text-align: left;
+  display: inline;
+  margin: 20px 20px 0px 80px;
+
+  img {
+    padding-top: 20px;
+  }
+
+  p {
+  margin-top: -44px;
+  padding: 0px 5px 100px 65px;
+  }
+}
+
+.navLinks {
+  width: 600px;
+  height: 100px;
+  text-align: center;
+  margin: 0px 50px 10px 50px;
+
+  ul {
+    list-style-type: none;
+    margin-top: 50px;
+    padding: 0;
+  }
+
+  ul li {
+    list-style: none;
+    display: inline;
+    padding: 80px 5px 0px 10px;
+    font-size: 15px;
+  }
+}
+
+.navRowText {
+  width: 400px;
+  height: 150px;
+  margin-top: 0px;
+  padding: 40px 0px 0px 10px;
+  display: inline;
+
+  span {
+    float: left;
+    color: #000000;
+  }
+
+  span.language {
+    margin-top: 50px;
+    font-size: 15px;
+  }
+
+  span.imgBar {
+    height: 50px;
+    margin: 30px 5px 0px 10px;
+  }
+
+  span.imgPerson {
+    margin: 35px 5px 0px 5px;
+  }
+
+  span.person {
+    margin: 38px 0px 0px 5px;
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  span.funci {
+    margin: 22px 0px 0px -53px;
+    font-size: 10px;
+    font-weight: lighter;
+  }
+
+  span.icon {
+    margin: 15px 0px 0px 20px;
+  }
+}
